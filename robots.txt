@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekaveebi.github.io/sitemap_index.ekaveebi
